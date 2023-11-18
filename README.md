@@ -35,7 +35,7 @@ All parts should be printable without supports. Please keep it that way if you p
 * 4 M2 machine screws, max 5mm length excluding head, and max 3mm head diameter.
 * 4 wood screws. Not quite sure about the dimensions, but mine are 4mm in diameter across the threads, 19mm length excluding head and head diameter of 8mm.
 * A 21700 battery of well known brand like Molicell or Samsung.
-* A 21700 battery holder [like this](https://vi.aliexpress.com/item/1005004464947052.html?spm=a2g0o.productlist.main.15.70155b8eZTWrik). *See first: * [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7)
+* A 21700 battery holder [like this](https://vi.aliexpress.com/item/1005004464947052.html?spm=a2g0o.productlist.main.15.70155b8eZTWrik). *See first:* [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7)
 * One 2 pin ZH 1.5 JST connector [like this](https://vi.aliexpress.com/item/1005003082340140.html?spm=a2g0o.order_list.order_list_main.27.124e18027wA48)
 * Cables to go from battery holder to daughter board.
 
@@ -64,3 +64,11 @@ All parts should be printable without supports. Please keep it that way if you p
 **Daughter board compartment:**
 
 ![Daughter board compartment](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro07.jpg)
+
+**Surface finish front:**
+
+![Surface finish front](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro11.jpg)
+
+**Surface finish backside:**
+
+![Surface finish backside](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro12.jpg)

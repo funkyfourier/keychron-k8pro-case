@@ -4,15 +4,25 @@
 
 When I got me a [Keychron K8 Pro](https://www.keychron.com/collections/keychron-k-pro-series-normal-profile-keyboards/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard) I liked everything about it except the height. Having some CAD skills and a 3D printer I therefore set out to design my own custom case.
 
+### Disclaimer
+
 *This is to be regarded as a work in progress*, since there still are some [issues](https://github.com/funkyfourier/keychron-k8pro-case/issues) which you should be aware of before attempting to print this. At the time of writing I am not sure how much more time I am going to put into this since it already has stolen a lot of valuable time from my [other](https://github.com/funkyfourier/keychron-k8pro-case/issues) [projects](https://play.google.com/store/apps/details?id=info.casualcomputing.sputter).
 
 **Important:** I have **not** dared testing using the battery yet since I do not need it personally. According to the text on the charging chip it uses the TP5000X charging IC, which I have included the [data sheet](https://github.com/funkyfourier/keychron-k8pro-case/blob/master/tp5000x.pdf) for. I am quite confident that it will work, but **do not blame me if it does not**. Also, if you need the battery, beware of [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7).
 
 *Also:* Pay attention to the polarity when you insert the battery. I do *not* know wether the board has reverse polarity protection.
 
+### In use
+
+I am quite enjoying using this as my main keyboard. Obviously it does not sound as good as in the original case, mostly due to the lack of dampening materials. On the other hand the low profile without having to resort to a wrist rest and still having full travel keys, makes for a pretty great experience. I have tried a [K3 Pro](https://www.keychron.com/products/keychron-k3-pro-qmk-via-wireless-custom-mechanical-keyboard) at work and definetely like this better.
+
+Of course getting the [Keychron V3 QMK](https://www.keychron.com/products/keychron-v3-qmk-custom-mechanical-keyboard) instead is a more sensible option. I was not aware of it at the time I got my K8 Pro. Now that I have it, though, I find that having the option to switch to bluetooth for my work laptop while the keyboard is plugged into my PC is a great convenience.
+
+### Printing and assembly
+
 The case is made with [FreeCAD](https://www.freecad.org/). It is set up with git as [explained in this blog post on blog.lambda.cx](https://blog.lambda.cx/posts/freecad-and-git/).
 
-All parts should be printable without supports. Please keep it that way if you plan to post a pull request.
+All parts should be printable without supports. Please rotate the models to the correct orientation in the slicer before printing.
 
 ### Advantages:
 
@@ -41,6 +51,8 @@ All parts should be printable without supports. Please keep it that way if you p
 
 ## Pics
 
+Please excuse the dust. It is amazing how clean things can look in person while lots of dust and debris still show up on camera.
+
 **Side profile:**
 
 ![Side profile](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro02.jpg)
@@ -48,6 +60,10 @@ All parts should be printable without supports. Please keep it that way if you p
 **Back side:**
 
 ![Back side](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro04.jpg)
+
+**Front screws:**
+
+![Front screws](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro15.jpg)
 
 **USB plug and switches:**
 

@@ -41,6 +41,26 @@ All parts should be printable without supports. Please keep it that way if you p
 
 ## Pics
 
+**Side profile:**
+
 ![Side profile](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro02.jpg)
-![Back side](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro03.jpg)
+
+**Back side:**
+
+![Back side](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro04.jpg)
+
+**USB plug and switches:**
+
+![USB plug and switches](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro09.jpg)
+
+**PCB partly exposed underneath:**
+
 ![PCB partly exposed underneath](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro08.jpg)
+
+**Battery compartment:**
+
+![Battery compartment](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro10.jpg)
+
+**Daughter board compartment:**
+
+![Daughter board compartment](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro07.jpg)

@@ -1,7 +1,7 @@
 [diff "zip"]
 textconv = unzip -c -a
 [core]
-    attributesfile = ~/.gitattributes
+    attributesfile = .gitattributes
 [filter "zippey"]
-    smudge = zippey.py d
-    clean = zippey.py e
+    smudge = python zippey.py d
+    clean = python zippey.py e

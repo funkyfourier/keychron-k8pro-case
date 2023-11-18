@@ -4,11 +4,13 @@ When I got me a [Keychron K8 Pro](https://www.keychron.com/collections/keychron-
 
 *This is to be regarded as a work in progress*, since there still are some [issues](https://github.com/funkyfourier/keychron-k8pro-case/issues) which you should be aware of before attempting to print this. At the time of writing I am not sure how much more time I am going to put into this since it already has stolen a lot of valuable time from my [other](https://github.com/funkyfourier/keychron-k8pro-case/issues) [projects](https://play.google.com/store/apps/details?id=info.casualcomputing.sputter).
 
-*Important:* I have *not* dared testing using the battery yet since I do not need it personally. According to the text on the charging chip it uses the TP5000X charging IC, which I have included the [data sheet](https://github.com/funkyfourier/keychron-k8pro-case/blob/master/tp5000x.pdf) for. I am quite confident that it will work, but *don't blame me if it does not*. Also, if you need the battery, beware of [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7).
+**Important:** I have **not** dared testing using the battery yet since I do not need it personally. According to the text on the charging chip it uses the TP5000X charging IC, which I have included the [data sheet](https://github.com/funkyfourier/keychron-k8pro-case/blob/master/tp5000x.pdf) for. I am quite confident that it will work, but **do not blame me if it does not**. Also, if you need the battery, beware of [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7).
+
+*Also:* Pay attention to the polarity when you insert the battery. I do *not* know wether the board has reverse polarity protection.
 
 The case is made with [FreeCAD](https://www.freecad.org/). It is set up with git as [explained in this blog post on blog.lambda.cx](https://blog.lambda.cx/posts/freecad-and-git/).
 
-All parts should be printable without supports. Please keep it like that if you decide to post a pull request.
+All parts should be printable without supports. Please keep it that way if you plan to post a pull request.
 
 ### Advantages:
 

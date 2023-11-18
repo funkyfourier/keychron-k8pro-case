@@ -1,5 +1,7 @@
 # WIP: 3D Printable Case for the Keychron K8 Pro keyboard
 
+![Keychron K8 Pro with 3D printed case](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro01.jpg)
+
 When I got me a [Keychron K8 Pro](https://www.keychron.com/collections/keychron-k-pro-series-normal-profile-keyboards/products/keychron-k8-pro-qmk-via-wireless-mechanical-keyboard) I liked everything about it except the height. Having some CAD skills and a 3D printer I therefore set out to design my own custom case.
 
 *This is to be regarded as a work in progress*, since there still are some [issues](https://github.com/funkyfourier/keychron-k8pro-case/issues) which you should be aware of before attempting to print this. At the time of writing I am not sure how much more time I am going to put into this since it already has stolen a lot of valuable time from my [other](https://github.com/funkyfourier/keychron-k8pro-case/issues) [projects](https://play.google.com/store/apps/details?id=info.casualcomputing.sputter).
@@ -36,3 +38,9 @@ All parts should be printable without supports. Please keep it that way if you p
 * A 21700 battery holder [like this](https://vi.aliexpress.com/item/1005004464947052.html?spm=a2g0o.productlist.main.15.70155b8eZTWrik). *See first: * [issue#7](https://github.com/funkyfourier/keychron-k8pro-case/issues/7)
 * One 2 pin ZH 1.5 JST connector [like this](https://vi.aliexpress.com/item/1005003082340140.html?spm=a2g0o.order_list.order_list_main.27.124e18027wA48)
 * Cables to go from battery holder to daughter board.
+
+## Pics
+
+![Side profile](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro02.jpg)
+![Back side](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro03.jpg)
+![PCB partly exposed underneath](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro08.jpg)

@@ -63,7 +63,7 @@ All parts should be printable without supports. Please keep it that way if you p
 
 **Daughter board compartment:**
 
-![Daughter board compartment](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro07.jpg)
+![Daughter board compartment](https://raw.githubusercontent.com/funkyfourier/keychron-k8pro-case/master/images/k8pro13.jpg)
 
 **Surface finish front:**
 

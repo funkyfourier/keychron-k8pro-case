@@ -1,0 +1,9 @@
+* Height of PCB probably 1mm less
+* 21700 possibly too large, might fit if widening the battery compartment
+* The two parts come out slightly angled
+* Mount for tablet/phone?
+* Standoff F or C is a little bit out of alignment
+* Rattling switches
+* No angled feet
+* Easier to install daughter board cable
+* Close center gap underneath?

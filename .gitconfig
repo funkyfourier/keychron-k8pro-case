@@ -1,7 +1,0 @@
-[diff "zip"]
-textconv = unzip -c -a
-[core]
-    attributesfile = .gitattributes
-[filter "zippey"]
-    smudge = python zippey.py d
-    clean = python zippey.py e

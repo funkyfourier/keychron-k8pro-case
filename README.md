@@ -37,7 +37,7 @@ Of course getting the [Keychron V3 QMK](https://www.keychron.com/products/keychr
 
 ### Printing and assembly
 
-The case is made in [FreeCAD](https://www.freecad.org/). It is set up with git as [explained in this blog post on blog.lambda.cx](https://blog.lambda.cx/posts/freecad-and-git/).
+The case is made in [FreeCAD](https://www.freecad.org/). If you want to adjust dimensions it should be sufficient to do that in the spreadsheets.
 
 All parts should be printable without supports. Please rotate the models to the correct orientation in the slicer before printing.
 
